@@ -2,5 +2,5 @@ This is a demo Github PR demo.
 main branch change.
 feature-1 change
 add change through PR.
-team mate made changes.
 another change from team mate.
+team mate made changes.
