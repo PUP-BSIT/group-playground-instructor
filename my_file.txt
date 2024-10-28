@@ -1,4 +1,4 @@
 This is a demo Github PR demo.
 main branch change.
 feature-1 change
-add change tru PR.
+add change through PR.
